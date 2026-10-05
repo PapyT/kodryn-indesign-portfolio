@@ -8,13 +8,13 @@
 .tile-haven{grid-column:span 7}.tile-forge{grid-column:span 5}.tile-aurelia{grid-column:span 5}.tile-atelier{grid-column:span 7}.tile-bloom{grid-column:span 6}.tile-common-ground{grid-column:span 7}.tile-zest{grid-column:span 5}.tile-axis{grid-column:span 6}.tile-wayfarer{grid-column:span 6}@media(max-width:800px){.tile-haven,.tile-forge,.tile-aurelia,.tile-atelier,.tile-bloom,.tile-common-ground,.tile-zest,.tile-axis,.tile-wayfarer{grid-column:span 12}}
 
 /* ===== Dark editorial theme: palette, type, accent gradient ===== */
-:root{color-scheme:dark;--ink:#ece8e1;--muted:#a6a39c;--faint:#85827c;--paper:#0c0d10;--line:#25272d;--surface:#14161a;--surface-2:#1b1e23;--a:#f3b562;--b:#ec7f6a;--c:#d94f84;--grad:linear-gradient(110deg,var(--a) 0%,var(--b) 52%,var(--c) 100%);--display:'Instrument Serif','Times New Roman',serif;--sans:'Hanken Grotesk',system-ui,-apple-system,'Segoe UI',sans-serif}
+:root{color-scheme:dark;--ink:#e8edf5;--muted:#9aa6b8;--faint:#7d8aa0;--paper:#070b14;--line:#1e2638;--surface:#0f1626;--surface-2:#162036;--a:#6fd3f7;--b:#4b8cf5;--c:#7a8cf2;--grad:linear-gradient(110deg,var(--a) 0%,var(--b) 52%,var(--c) 100%);--display:'Instrument Serif','Times New Roman',serif;--sans:'Hanken Grotesk',system-ui,-apple-system,'Segoe UI',sans-serif}
 body{-webkit-font-smoothing:antialiased;line-height:1.65}
-::selection{background:var(--b);color:#16100d}
+::selection{background:var(--b);color:#06101f}
 .rail{background:var(--paper)}
-.lightbox{background:#101114;color:var(--ink)}
+.lightbox{background:#0b111d;color:var(--ink)}
 a:focus-visible,button:focus-visible,.project-search input:focus{outline-color:var(--a)}
-.skip,.button{background:var(--grad);color:#16100d}
+.skip,.button{background:var(--grad);color:#06101f}
 .button{font-weight:600}.button:hover{background:var(--grad);filter:brightness(1.1)}
 .eyebrow,.project-number,.process-grid span,.wordmark span,.contact h2 em{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
 .eyebrow{letter-spacing:.16em;font-weight:500}
@@ -24,14 +24,14 @@ a:focus-visible,button:focus-visible,.project-search input:focus{outline-color:v
 .filters button[aria-pressed=true]{border-image:var(--grad) 1;border-width:0 0 1px}
 .project-search input{background:var(--surface);border-color:var(--line)}
 .secondary-link,.back-link{border-bottom-color:var(--a)}
-.view-label{background:var(--grad);color:#16100d;font-weight:600}
+.view-label{background:var(--grad);color:#06101f;font-weight:600}
 .process-grid article{background:var(--surface);border-top:2px solid;border-width:2px 0 0;border-image:var(--grad) 1}
 .faqs summary::marker{color:var(--a)}
 .detail-page button,.detail-page:nth-child(2) button{background:var(--surface)}
 .detail-page button:hover{background:var(--surface-2)}
 .detail-page button img{box-shadow:0 14px 34px #000a}
-.reader-stage{background:#08090b}
-.reader-toolbar button,.reader-navigation button,.reader-navigation select,.close-dialog{background:var(--surface-2);color:var(--ink);border-color:#34373e}
+.reader-stage{background:#060910}
+.reader-toolbar button,.reader-navigation button,.reader-navigation select,.close-dialog{background:var(--surface-2);color:var(--ink);border-color:#2a3550}
 /* typography: serif display for headings, grotesk for text */
 .wordmark{font-size:2.7rem;letter-spacing:-.02em}
 .introduction h1{font-size:clamp(2.75rem,6.2vw,6rem);letter-spacing:-.02em;line-height:1}
@@ -71,3 +71,8 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
 .reader-stage{background:#050810}
 .reader-toolbar button,.reader-navigation button,.reader-navigation select,.close-dialog{border-color:#2a3856}
 .lightbox::backdrop{background:rgba(3,6,12,.88)}
+
+/* ===== Brand refresh: navy gradient background from the Kodryn logo palette ===== */
+html{background:#070b14;scrollbar-color:#2a3550 #070b14}
+body{background:radial-gradient(1100px 650px at 88% -8%,rgba(75,140,245,.20),transparent 62%),radial-gradient(800px 560px at 12% 24%,rgba(111,211,247,.08),transparent 60%),radial-gradient(900px 600px at 70% 78%,rgba(122,140,242,.07),transparent 62%),linear-gradient(180deg,#0a1122 0%,#070b14 48%,#060913 100%);background-color:#070b14;background-repeat:no-repeat}
+.rail{background:linear-gradient(180deg,#0c1426 0%,#080d19 55%,#070b14 100%);border-right-color:#1b2437}
