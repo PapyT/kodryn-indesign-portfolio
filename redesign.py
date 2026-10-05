@@ -10,7 +10,7 @@ def rail(active=None):
 # No registered trademark claims: the small mark is a plain asterisk.
 footer=f'''<footer><p>Publication & editorial design<br>© 2026 Kodryn</p><a href="{fiverr}" target="_blank" rel="noopener noreferrer">Enquiries on Fiverr</a><a href="#main">Back to top</a></footer>'''
 def shell(title,desc,body,active=None):
- return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0c0d10"><title>{html.escape(title)}</title><meta name="description" content="{html.escape(desc,quote=True)}"><link rel="icon" type="image/png" href="/assets/kodryn-mark.png"><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head><body>{rail(active).replace('®','*')}<div class="content">{body}{footer}</div></body></html>'''
+ return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#070b14"><title>{html.escape(title)}</title><meta name="description" content="{html.escape(desc,quote=True)}"><link rel="icon" type="image/png" href="/assets/kodryn-mark.png"><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head><body>{rail(active).replace('®','*')}<div class="content">{body}{footer}</div></body></html>'''
 filters=''.join(f'<button type="button" data-filter="{x}" aria-pressed="{str(x=="All").lower()}">{x if x=="All" else x+"s"}</button>' for x in ['All','Brochure','Catalog','Magazine','Report','Guide'])
 cards=''
 for i,p in enumerate(ps):

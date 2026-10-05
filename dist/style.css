@@ -60,3 +60,14 @@ a:focus-visible,button:focus-visible,.project-search input:focus{outline-color:v
 @media(max-width:540px){.services{grid-template-columns:1fr}}
 
 .wordmark{display:flex;align-items:center;gap:11px;font-size:2.4rem;letter-spacing:-.02em}.wordmark img{height:44px;width:auto;flex:none}.wordmark b{font-weight:400;font-family:var(--display)}
+
+/* ===== Brand-blue background ===== */
+:root{--paper:#070b14;--surface:#0e1626;--surface-2:#162239;--line:#1c2742;--ink:#e9eef7;--muted:#9aa6bb;--faint:#7d8aa1}
+html{background:#070b14}
+body{background:transparent}
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(900px 600px at 88% -8%,rgba(47,111,214,.24),transparent 62%),radial-gradient(760px 560px at 6% 34%,rgba(30,70,160,.17),transparent 62%),radial-gradient(900px 700px at 92% 102%,rgba(26,150,205,.11),transparent 62%),linear-gradient(180deg,#09101e 0%,#060912 100%)}
+.rail{background:linear-gradient(180deg,rgba(9,15,29,.88),rgba(6,9,18,.92));-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border-right-color:var(--line)}
+.lightbox{background:#0a101d}
+.reader-stage{background:#050810}
+.reader-toolbar button,.reader-navigation button,.reader-navigation select,.close-dialog{border-color:#2a3856}
+.lightbox::backdrop{background:rgba(3,6,12,.88)}
