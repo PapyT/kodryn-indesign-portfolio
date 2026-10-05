@@ -58,3 +58,5 @@ a:focus-visible,button:focus-visible,.project-search input:focus{outline-color:v
 .services>div>p{font-size:.95rem}
 @media(max-width:1100px){.services{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:540px){.services{grid-template-columns:1fr}}
+
+.wordmark{display:flex;align-items:center;gap:11px;font-size:2.4rem;letter-spacing:-.02em}.wordmark img{height:44px;width:auto;flex:none}.wordmark b{font-weight:400;font-family:var(--display)}

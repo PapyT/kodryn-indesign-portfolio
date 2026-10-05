@@ -1,4 +1,4 @@
-# Ayobami — Publication Design
+# Kodryn — Publication Design
 
 Static portfolio featuring 11 complete publications and 88 pages. Includes galleries, search and category filters, an interactive page reader and downloadable PDF viewing copies.
 
