@@ -1,0 +1,30 @@
+{
+  "projects": 40,
+  "detail_pages": 40,
+  "webp_covers": 40,
+  "webp_board_pages": 120,
+  "source_files": 411,
+  "master_pdf_megabytes": 24.25,
+  "legacy_routes_removed": [
+    "atelier",
+    "aurelia",
+    "axis",
+    "bloom",
+    "coast-and-trail",
+    "daily-ritual",
+    "forge",
+    "form-and-field",
+    "haven",
+    "kora",
+    "roots",
+    "shift",
+    "signal-studio",
+    "sunpop",
+    "wayfarer",
+    "willow-and-vale",
+    "zest"
+  ],
+  "broken_internal_links": 0,
+  "javascript_syntax": "PASS",
+  "status": "READY_FOR_PREVIEW"
+}

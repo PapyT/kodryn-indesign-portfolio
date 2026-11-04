@@ -1,10 +1,1 @@
-# Kodryn — Publication Design
-
-Static portfolio featuring 11 complete publications and 88 pages. Includes galleries, search and category filters, an interactive page reader and downloadable PDF viewing copies.
-
-Run locally: python3 -m http.server 8000 --directory dist
-
-Vercel: framework Other, output directory dist, no build command. Assets are included; no install step is needed.
-
-Regenerate pages after editing redesign.py: python3 redesign.py
-Fonts (Instrument Serif, Hanken Grotesk, both OFL) are self-hosted in dist/fonts.
+Kodryn — 40 approved publication design studies. Static site: serve dist/ with Python http.server. 40 project detail pages, 120 WebP board images and a 132-page master PDF. Vercel Other framework, outputDirectory dist. Projects are self-initiated portfolio studies, not client endorsements.

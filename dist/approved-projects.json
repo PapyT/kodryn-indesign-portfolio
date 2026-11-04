@@ -1,0 +1,642 @@
+[
+  {
+    "number": 1,
+    "name": "Aldous-Pike",
+    "slug": "aldous-pike",
+    "revision": 33,
+    "category": "Services & Experience",
+    "category_index": 4,
+    "accent": "#8CC4D6",
+    "description": "A legal-services guide and companion foldsheet that make practice areas, enquiry steps and professional scope easier to understand.",
+    "thumb": "/assets/approved-2026/aldous-pike/cover.webp",
+    "boards": [
+      "/assets/approved-2026/aldous-pike/board-01.webp",
+      "/assets/approved-2026/aldous-pike/board-02.webp",
+      "/assets/approved-2026/aldous-pike/board-03.webp"
+    ]
+  },
+  {
+    "number": 2,
+    "name": "Brightmoor-Solar",
+    "slug": "brightmoor-solar",
+    "revision": 34,
+    "category": "Reports & Research",
+    "category_index": 5,
+    "accent": "#D5AAA3",
+    "description": "An illustrative solar-planning publication that explains array capacity, generation assumptions and financial examples through clear diagrams.",
+    "thumb": "/assets/approved-2026/brightmoor-solar/cover.webp",
+    "boards": [
+      "/assets/approved-2026/brightmoor-solar/board-01.webp",
+      "/assets/approved-2026/brightmoor-solar/board-02.webp",
+      "/assets/approved-2026/brightmoor-solar/board-03.webp"
+    ]
+  },
+  {
+    "number": 3,
+    "name": "Calloway",
+    "slug": "calloway",
+    "revision": 38,
+    "category": "Reports & Research",
+    "category_index": 5,
+    "accent": "#D5AAA3",
+    "description": "A long-form annual-report study organising strategy, operations, governance and financial information within a readable narrative.",
+    "thumb": "/assets/approved-2026/calloway/cover.webp",
+    "boards": [
+      "/assets/approved-2026/calloway/board-01.webp",
+      "/assets/approved-2026/calloway/board-02.webp",
+      "/assets/approved-2026/calloway/board-03.webp"
+    ]
+  },
+  {
+    "number": 4,
+    "name": "Civic",
+    "slug": "civic",
+    "revision": 29,
+    "category": "Reports & Research",
+    "category_index": 5,
+    "accent": "#D5AAA3",
+    "description": "An energy-performance report translating modelled quarterly generation, site changes and financial comparisons into legible pages.",
+    "thumb": "/assets/approved-2026/civic/cover.webp",
+    "boards": [
+      "/assets/approved-2026/civic/board-01.webp",
+      "/assets/approved-2026/civic/board-02.webp",
+      "/assets/approved-2026/civic/board-03.webp"
+    ]
+  },
+  {
+    "number": 5,
+    "name": "Clearpath-Coaching",
+    "slug": "clearpath-coaching",
+    "revision": 2,
+    "category": "Services & Experience",
+    "category_index": 4,
+    "accent": "#8CC4D6",
+    "description": "A fillable coaching workbook that connects reflective prompts, guided planning and practical follow-through.",
+    "thumb": "/assets/approved-2026/clearpath-coaching/cover.webp",
+    "boards": [
+      "/assets/approved-2026/clearpath-coaching/board-01.webp",
+      "/assets/approved-2026/clearpath-coaching/board-02.webp",
+      "/assets/approved-2026/clearpath-coaching/board-03.webp"
+    ]
+  },
+  {
+    "number": 6,
+    "name": "Clearwater",
+    "slug": "clearwater",
+    "revision": 26,
+    "category": "Reports & Research",
+    "category_index": 5,
+    "accent": "#D5AAA3",
+    "description": "A data-led operational report presenting reconciled enquiries, resolution measures and financial comparisons.",
+    "thumb": "/assets/approved-2026/clearwater/cover.webp",
+    "boards": [
+      "/assets/approved-2026/clearwater/board-01.webp",
+      "/assets/approved-2026/clearwater/board-02.webp",
+      "/assets/approved-2026/clearwater/board-03.webp"
+    ]
+  },
+  {
+    "number": 7,
+    "name": "Common-Ground",
+    "slug": "common-ground",
+    "revision": 27,
+    "category": "Reports & Research",
+    "category_index": 5,
+    "accent": "#D5AAA3",
+    "description": "A community-impact editorial combining credited landscape imagery with clearly identified illustrative programme measures.",
+    "thumb": "/assets/approved-2026/common-ground/cover.webp",
+    "boards": [
+      "/assets/approved-2026/common-ground/board-01.webp",
+      "/assets/approved-2026/common-ground/board-02.webp",
+      "/assets/approved-2026/common-ground/board-03.webp"
+    ]
+  },
+  {
+    "number": 8,
+    "name": "Courtyard",
+    "slug": "courtyard",
+    "revision": 21,
+    "category": "Spaces & Hospitality",
+    "category_index": 1,
+    "accent": "#A6C7B3",
+    "description": "A calm interior brochure exploring natural light, circulation, material cues and spatial planning.",
+    "thumb": "/assets/approved-2026/courtyard/cover.webp",
+    "boards": [
+      "/assets/approved-2026/courtyard/board-01.webp",
+      "/assets/approved-2026/courtyard/board-02.webp",
+      "/assets/approved-2026/courtyard/board-03.webp"
+    ]
+  },
+  {
+    "number": 9,
+    "name": "Daily-Form",
+    "slug": "daily-form",
+    "revision": 23,
+    "category": "Identity & Packaging",
+    "category_index": 0,
+    "accent": "#D7A370",
+    "description": "A botanical personal-care identity and packaging study with clear range labels, typography and visual consistency.",
+    "thumb": "/assets/approved-2026/daily-form/cover.webp",
+    "boards": [
+      "/assets/approved-2026/daily-form/board-01.webp",
+      "/assets/approved-2026/daily-form/board-02.webp",
+      "/assets/approved-2026/daily-form/board-03.webp"
+    ]
+  },
+  {
+    "number": 10,
+    "name": "Datum",
+    "slug": "datum",
+    "revision": 28,
+    "category": "Product & Commerce",
+    "category_index": 2,
+    "accent": "#D7B37E",
+    "description": "A measurement-tool catalogue with comparative instrument specifications, model codes and practical selection cues.",
+    "thumb": "/assets/approved-2026/datum/cover.webp",
+    "boards": [
+      "/assets/approved-2026/datum/board-01.webp",
+      "/assets/approved-2026/datum/board-02.webp",
+      "/assets/approved-2026/datum/board-03.webp"
+    ]
+  },
+  {
+    "number": 11,
+    "name": "Distributed-Work",
+    "slug": "distributed-work",
+    "revision": 40,
+    "category": "Reports & Research",
+    "category_index": 5,
+    "accent": "#D5AAA3",
+    "description": "A research report using synthetic respondent records to present work-practice patterns and their implications.",
+    "thumb": "/assets/approved-2026/distributed-work/cover.webp",
+    "boards": [
+      "/assets/approved-2026/distributed-work/board-01.webp",
+      "/assets/approved-2026/distributed-work/board-02.webp",
+      "/assets/approved-2026/distributed-work/board-03.webp"
+    ]
+  },
+  {
+    "number": 12,
+    "name": "Fernloop",
+    "slug": "fernloop",
+    "revision": 39,
+    "category": "Reports & Research",
+    "category_index": 5,
+    "accent": "#D5AAA3",
+    "description": "A nature-led impact report balancing conservation narrative, illustrative data and a structured editorial hierarchy.",
+    "thumb": "/assets/approved-2026/fernloop/cover.webp",
+    "boards": [
+      "/assets/approved-2026/fernloop/board-01.webp",
+      "/assets/approved-2026/fernloop/board-02.webp",
+      "/assets/approved-2026/fernloop/board-03.webp"
+    ]
+  },
+  {
+    "number": 13,
+    "name": "Fieldnote",
+    "slug": "fieldnote",
+    "revision": 2,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "A forest-loop guide connecting route decisions, landscape details and usable field observations.",
+    "thumb": "/assets/approved-2026/fieldnote/cover.webp",
+    "boards": [
+      "/assets/approved-2026/fieldnote/board-01.webp",
+      "/assets/approved-2026/fieldnote/board-02.webp",
+      "/assets/approved-2026/fieldnote/board-03.webp"
+    ]
+  },
+  {
+    "number": 14,
+    "name": "Fieldnotes",
+    "slug": "fieldnotes",
+    "revision": 18,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "A field-journal publication exploring documentary pacing, landscape imagery and close observation.",
+    "thumb": "/assets/approved-2026/fieldnotes/cover.webp",
+    "boards": [
+      "/assets/approved-2026/fieldnotes/board-01.webp",
+      "/assets/approved-2026/fieldnotes/board-02.webp",
+      "/assets/approved-2026/fieldnotes/board-03.webp"
+    ]
+  },
+  {
+    "number": 15,
+    "name": "Gridshift",
+    "slug": "gridshift",
+    "revision": 12,
+    "category": "Identity & Packaging",
+    "category_index": 0,
+    "accent": "#D7A370",
+    "description": "A modular document-design system demonstrating recurring typography, layout structure and information hierarchy.",
+    "thumb": "/assets/approved-2026/gridshift/cover.webp",
+    "boards": [
+      "/assets/approved-2026/gridshift/board-01.webp",
+      "/assets/approved-2026/gridshift/board-02.webp",
+      "/assets/approved-2026/gridshift/board-03.webp"
+    ]
+  },
+  {
+    "number": 16,
+    "name": "Halftone-Garden",
+    "slug": "halftone-garden",
+    "revision": 19,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "A botanical print editorial using deliberate textures, image pacing and refined display typography.",
+    "thumb": "/assets/approved-2026/halftone-garden/cover.webp",
+    "boards": [
+      "/assets/approved-2026/halftone-garden/board-01.webp",
+      "/assets/approved-2026/halftone-garden/board-02.webp",
+      "/assets/approved-2026/halftone-garden/board-03.webp"
+    ]
+  },
+  {
+    "number": 17,
+    "name": "Halvorsen-Quill",
+    "slug": "halvorsen-quill",
+    "revision": 3,
+    "category": "Product & Commerce",
+    "category_index": 2,
+    "accent": "#D7B37E",
+    "description": "An architecture-focused booklet built around schematic plans, explanatory diagrams and restrained typography.",
+    "thumb": "/assets/approved-2026/halvorsen-quill/cover.webp",
+    "boards": [
+      "/assets/approved-2026/halvorsen-quill/board-01.webp",
+      "/assets/approved-2026/halvorsen-quill/board-02.webp",
+      "/assets/approved-2026/halvorsen-quill/board-03.webp"
+    ]
+  },
+  {
+    "number": 18,
+    "name": "Harbor",
+    "slug": "harbor",
+    "revision": 25,
+    "category": "Services & Experience",
+    "category_index": 4,
+    "accent": "#8CC4D6",
+    "description": "A service-design booklet explaining discovery, planning, pilot implementation and structured handover.",
+    "thumb": "/assets/approved-2026/harbor/cover.webp",
+    "boards": [
+      "/assets/approved-2026/harbor/board-01.webp",
+      "/assets/approved-2026/harbor/board-02.webp",
+      "/assets/approved-2026/harbor/board-03.webp"
+    ]
+  },
+  {
+    "number": 19,
+    "name": "Hearthwell",
+    "slug": "hearthwell",
+    "revision": 37,
+    "category": "Product & Commerce",
+    "category_index": 2,
+    "accent": "#D7B37E",
+    "description": "A furniture and materials catalogue that makes product dimensions, finishes and interior applications approachable.",
+    "thumb": "/assets/approved-2026/hearthwell/cover.webp",
+    "boards": [
+      "/assets/approved-2026/hearthwell/board-01.webp",
+      "/assets/approved-2026/hearthwell/board-02.webp",
+      "/assets/approved-2026/hearthwell/board-03.webp"
+    ]
+  },
+  {
+    "number": 20,
+    "name": "Hollow-Pine",
+    "slug": "hollow-pine",
+    "revision": 4,
+    "category": "Spaces & Hospitality",
+    "category_index": 1,
+    "accent": "#A6C7B3",
+    "description": "A hospitality editorial that uses atmosphere, place and guest-facing information to shape a coherent experience.",
+    "thumb": "/assets/approved-2026/hollow-pine/cover.webp",
+    "boards": [
+      "/assets/approved-2026/hollow-pine/board-01.webp",
+      "/assets/approved-2026/hollow-pine/board-02.webp",
+      "/assets/approved-2026/hollow-pine/board-03.webp"
+    ]
+  },
+  {
+    "number": 21,
+    "name": "Kiln-Cup",
+    "slug": "kiln-cup",
+    "revision": 12,
+    "category": "Product & Commerce",
+    "category_index": 2,
+    "accent": "#D7B37E",
+    "description": "A coffee and hospitality communication study bringing menu information, photography and warm identity together.",
+    "thumb": "/assets/approved-2026/kiln-cup/cover.webp",
+    "boards": [
+      "/assets/approved-2026/kiln-cup/board-01.webp",
+      "/assets/approved-2026/kiln-cup/board-02.webp",
+      "/assets/approved-2026/kiln-cup/board-03.webp"
+    ]
+  },
+  {
+    "number": 22,
+    "name": "Larkfield",
+    "slug": "larkfield",
+    "revision": 32,
+    "category": "Services & Experience",
+    "category_index": 4,
+    "accent": "#8CC4D6",
+    "description": "A first-visit dental guide organising care conversations, treatment questions and practical next steps.",
+    "thumb": "/assets/approved-2026/larkfield/cover.webp",
+    "boards": [
+      "/assets/approved-2026/larkfield/board-01.webp",
+      "/assets/approved-2026/larkfield/board-02.webp",
+      "/assets/approved-2026/larkfield/board-03.webp"
+    ]
+  },
+  {
+    "number": 23,
+    "name": "Linden-Court",
+    "slug": "linden-court",
+    "revision": 35,
+    "category": "Spaces & Hospitality",
+    "category_index": 1,
+    "accent": "#A6C7B3",
+    "description": "A housing-planning editorial comparing illustrative room allowances and everyday living scenarios.",
+    "thumb": "/assets/approved-2026/linden-court/cover.webp",
+    "boards": [
+      "/assets/approved-2026/linden-court/board-01.webp",
+      "/assets/approved-2026/linden-court/board-02.webp",
+      "/assets/approved-2026/linden-court/board-03.webp"
+    ]
+  },
+  {
+    "number": 24,
+    "name": "Make-Room",
+    "slug": "make-room",
+    "revision": 13,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "A practical planning workbook built around prompts, usable writing space and instructional clarity.",
+    "thumb": "/assets/approved-2026/make-room/cover.webp",
+    "boards": [
+      "/assets/approved-2026/make-room/board-01.webp",
+      "/assets/approved-2026/make-room/board-02.webp",
+      "/assets/approved-2026/make-room/board-03.webp"
+    ]
+  },
+  {
+    "number": 25,
+    "name": "Material",
+    "slug": "material",
+    "revision": 30,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "A craft-culture magazine examining pottery, printing and communal reading through image-led storytelling.",
+    "thumb": "/assets/approved-2026/material/cover.webp",
+    "boards": [
+      "/assets/approved-2026/material/board-01.webp",
+      "/assets/approved-2026/material/board-02.webp",
+      "/assets/approved-2026/material/board-03.webp"
+    ]
+  },
+  {
+    "number": 26,
+    "name": "Neighbour",
+    "slug": "neighbour",
+    "revision": 24,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "A community editorial about shared spaces, repair and reuse, supported by credited documentary imagery.",
+    "thumb": "/assets/approved-2026/neighbour/cover.webp",
+    "boards": [
+      "/assets/approved-2026/neighbour/board-01.webp",
+      "/assets/approved-2026/neighbour/board-02.webp",
+      "/assets/approved-2026/neighbour/board-03.webp"
+    ]
+  },
+  {
+    "number": 27,
+    "name": "Northline",
+    "slug": "northline",
+    "revision": 3,
+    "category": "Spaces & Hospitality",
+    "category_index": 1,
+    "accent": "#A6C7B3",
+    "description": "A visitor-guide and wayfinding specimen that prioritises navigation, route information and readable instructions.",
+    "thumb": "/assets/approved-2026/northline/cover.webp",
+    "boards": [
+      "/assets/approved-2026/northline/board-01.webp",
+      "/assets/approved-2026/northline/board-02.webp",
+      "/assets/approved-2026/northline/board-03.webp"
+    ]
+  },
+  {
+    "number": 28,
+    "name": "Open-House",
+    "slug": "open-house",
+    "revision": 17,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "An exhibition guide that connects curatorial content, venue navigation and the visitor journey.",
+    "thumb": "/assets/approved-2026/open-house/cover.webp",
+    "boards": [
+      "/assets/approved-2026/open-house/board-01.webp",
+      "/assets/approved-2026/open-house/board-02.webp",
+      "/assets/approved-2026/open-house/board-03.webp"
+    ]
+  },
+  {
+    "number": 29,
+    "name": "Orlathread",
+    "slug": "orlathread",
+    "revision": 3,
+    "category": "Identity & Packaging",
+    "category_index": 0,
+    "accent": "#D7A370",
+    "description": "A service information-system study showing request, review and processing information in clear stages.",
+    "thumb": "/assets/approved-2026/orlathread/cover.webp",
+    "boards": [
+      "/assets/approved-2026/orlathread/board-01.webp",
+      "/assets/approved-2026/orlathread/board-02.webp",
+      "/assets/approved-2026/orlathread/board-03.webp"
+    ]
+  },
+  {
+    "number": 30,
+    "name": "Pattern",
+    "slug": "pattern",
+    "revision": 3,
+    "category": "Identity & Packaging",
+    "category_index": 0,
+    "accent": "#D7A370",
+    "description": "A design-system exercise in editorial structure, modular composition and typography.",
+    "thumb": "/assets/approved-2026/pattern/cover.webp",
+    "boards": [
+      "/assets/approved-2026/pattern/board-01.webp",
+      "/assets/approved-2026/pattern/board-02.webp",
+      "/assets/approved-2026/pattern/board-03.webp"
+    ]
+  },
+  {
+    "number": 31,
+    "name": "Quarterly-Index",
+    "slug": "quarterly-index",
+    "revision": 3,
+    "category": "Product & Commerce",
+    "category_index": 2,
+    "accent": "#D7B37E",
+    "description": "An analytical report organising periodic performance figures, summary charts and cost information.",
+    "thumb": "/assets/approved-2026/quarterly-index/cover.webp",
+    "boards": [
+      "/assets/approved-2026/quarterly-index/board-01.webp",
+      "/assets/approved-2026/quarterly-index/board-02.webp",
+      "/assets/approved-2026/quarterly-index/board-03.webp"
+    ]
+  },
+  {
+    "number": 32,
+    "name": "Signal",
+    "slug": "signal",
+    "revision": 15,
+    "category": "Identity & Packaging",
+    "category_index": 0,
+    "accent": "#D7A370",
+    "description": "A visual identity guide defining brand presentation, colour, typography and usable applications.",
+    "thumb": "/assets/approved-2026/signal/cover.webp",
+    "boards": [
+      "/assets/approved-2026/signal/board-01.webp",
+      "/assets/approved-2026/signal/board-02.webp",
+      "/assets/approved-2026/signal/board-03.webp"
+    ]
+  },
+  {
+    "number": 33,
+    "name": "Silence-Quarterly",
+    "slug": "silence-quarterly",
+    "revision": 3,
+    "category": "Identity & Packaging",
+    "category_index": 0,
+    "accent": "#D7A370",
+    "description": "A restrained product-and-editorial presentation pairing specifications with a consistent visual style.",
+    "thumb": "/assets/approved-2026/silence-quarterly/cover.webp",
+    "boards": [
+      "/assets/approved-2026/silence-quarterly/board-01.webp",
+      "/assets/approved-2026/silence-quarterly/board-02.webp",
+      "/assets/approved-2026/silence-quarterly/board-03.webp"
+    ]
+  },
+  {
+    "number": 34,
+    "name": "Slowroad-Journal",
+    "slug": "slowroad-journal",
+    "revision": 36,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "An illustrative travel journal connecting a multi-stop itinerary, photographic storytelling and walking options.",
+    "thumb": "/assets/approved-2026/slowroad-journal/cover.webp",
+    "boards": [
+      "/assets/approved-2026/slowroad-journal/board-01.webp",
+      "/assets/approved-2026/slowroad-journal/board-02.webp",
+      "/assets/approved-2026/slowroad-journal/board-03.webp"
+    ]
+  },
+  {
+    "number": 35,
+    "name": "Stillhouse",
+    "slug": "stillhouse",
+    "revision": 14,
+    "category": "Spaces & Hospitality",
+    "category_index": 1,
+    "accent": "#A6C7B3",
+    "description": "A hospitality brochure using contextual photography and quiet guest-oriented editorial design.",
+    "thumb": "/assets/approved-2026/stillhouse/cover.webp",
+    "boards": [
+      "/assets/approved-2026/stillhouse/board-01.webp",
+      "/assets/approved-2026/stillhouse/board-02.webp",
+      "/assets/approved-2026/stillhouse/board-03.webp"
+    ]
+  },
+  {
+    "number": 36,
+    "name": "Structure",
+    "slug": "structure",
+    "revision": 16,
+    "category": "Spaces & Hospitality",
+    "category_index": 1,
+    "accent": "#A6C7B3",
+    "description": "An architectural editorial studying facade, street and surface through a consistent photographic sequence.",
+    "thumb": "/assets/approved-2026/structure/cover.webp",
+    "boards": [
+      "/assets/approved-2026/structure/board-01.webp",
+      "/assets/approved-2026/structure/board-02.webp",
+      "/assets/approved-2026/structure/board-03.webp"
+    ]
+  },
+  {
+    "number": 37,
+    "name": "Table",
+    "slug": "table",
+    "revision": 5,
+    "category": "Identity & Packaging",
+    "category_index": 0,
+    "accent": "#D7A370",
+    "description": "A food-editorial publication with a distinct graphic system, readable content and visual pacing.",
+    "thumb": "/assets/approved-2026/table/cover.webp",
+    "boards": [
+      "/assets/approved-2026/table/board-01.webp",
+      "/assets/approved-2026/table/board-02.webp",
+      "/assets/approved-2026/table/board-03.webp"
+    ]
+  },
+  {
+    "number": 38,
+    "name": "Thread",
+    "slug": "thread",
+    "revision": 22,
+    "category": "Editorial & Culture",
+    "category_index": 3,
+    "accent": "#C0B5DD",
+    "description": "A comparative fashion lookbook exploring garment archives, street silhouettes and material details.",
+    "thumb": "/assets/approved-2026/thread/cover.webp",
+    "boards": [
+      "/assets/approved-2026/thread/board-01.webp",
+      "/assets/approved-2026/thread/board-02.webp",
+      "/assets/approved-2026/thread/board-03.webp"
+    ]
+  },
+  {
+    "number": 39,
+    "name": "Tolvik",
+    "slug": "tolvik",
+    "revision": 20,
+    "category": "Product & Commerce",
+    "category_index": 2,
+    "accent": "#D7B37E",
+    "description": "A technical catalogue with thirty illustrative product records, native dimension graphics and consistent reference codes.",
+    "thumb": "/assets/approved-2026/tolvik/cover.webp",
+    "boards": [
+      "/assets/approved-2026/tolvik/board-01.webp",
+      "/assets/approved-2026/tolvik/board-02.webp",
+      "/assets/approved-2026/tolvik/board-03.webp"
+    ]
+  },
+  {
+    "number": 40,
+    "name": "Wellspring-Next",
+    "slug": "wellspring-next",
+    "revision": 3,
+    "category": "Spaces & Hospitality",
+    "category_index": 1,
+    "accent": "#A6C7B3",
+    "description": "A digital-site presentation that brings clear visual hierarchy and editorial structure to web communication.",
+    "thumb": "/assets/approved-2026/wellspring-next/cover.webp",
+    "boards": [
+      "/assets/approved-2026/wellspring-next/board-01.webp",
+      "/assets/approved-2026/wellspring-next/board-02.webp",
+      "/assets/approved-2026/wellspring-next/board-03.webp"
+    ]
+  }
+]
