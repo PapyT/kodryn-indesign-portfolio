@@ -1,0 +1,109 @@
+{
+  "status": "PASS",
+  "legacy_directories_removed": 20,
+  "bytes_removed_from_current_deployment": 138062810,
+  "retained_approved_assets": 200,
+  "history_note": "Source history remains in Git and original separate portfolio archives; only obsolete static deployment copies were removed.",
+  "records": [
+    {
+      "legacy_directory": "atelier",
+      "old_file_count": 11,
+      "removed_bytes": 4231405
+    },
+    {
+      "legacy_directory": "aurelia",
+      "old_file_count": 5,
+      "removed_bytes": 2728027
+    },
+    {
+      "legacy_directory": "axis",
+      "old_file_count": 9,
+      "removed_bytes": 894025
+    },
+    {
+      "legacy_directory": "bloom",
+      "old_file_count": 11,
+      "removed_bytes": 3521835
+    },
+    {
+      "legacy_directory": "coast-and-trail",
+      "old_file_count": 11,
+      "removed_bytes": 22186326
+    },
+    {
+      "legacy_directory": "common-ground",
+      "old_file_count": 11,
+      "removed_bytes": 4588400
+    },
+    {
+      "legacy_directory": "daily-ritual",
+      "old_file_count": 11,
+      "removed_bytes": 5707095
+    },
+    {
+      "legacy_directory": "forge",
+      "old_file_count": 11,
+      "removed_bytes": 2283693
+    },
+    {
+      "legacy_directory": "form-and-field",
+      "old_file_count": 11,
+      "removed_bytes": 4217599
+    },
+    {
+      "legacy_directory": "haven",
+      "old_file_count": 5,
+      "removed_bytes": 1396020
+    },
+    {
+      "legacy_directory": "kora",
+      "old_file_count": 11,
+      "removed_bytes": 3135256
+    },
+    {
+      "legacy_directory": "northline",
+      "old_file_count": 11,
+      "removed_bytes": 1131979
+    },
+    {
+      "legacy_directory": "roots",
+      "old_file_count": 9,
+      "removed_bytes": 13290682
+    },
+    {
+      "legacy_directory": "shift",
+      "old_file_count": 15,
+      "removed_bytes": 13747371
+    },
+    {
+      "legacy_directory": "signal-studio",
+      "old_file_count": 9,
+      "removed_bytes": 1518938
+    },
+    {
+      "legacy_directory": "sunpop",
+      "old_file_count": 9,
+      "removed_bytes": 20388524
+    },
+    {
+      "legacy_directory": "table",
+      "old_file_count": 15,
+      "removed_bytes": 6820097
+    },
+    {
+      "legacy_directory": "wayfarer",
+      "old_file_count": 5,
+      "removed_bytes": 2693712
+    },
+    {
+      "legacy_directory": "willow-and-vale",
+      "old_file_count": 9,
+      "removed_bytes": 16386754
+    },
+    {
+      "legacy_directory": "zest",
+      "old_file_count": 9,
+      "removed_bytes": 7195072
+    }
+  ]
+}

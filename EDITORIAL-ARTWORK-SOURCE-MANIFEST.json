@@ -1,0 +1,362 @@
+[
+  {
+    "project": "Aldous-Pike",
+    "slug": "aldous-pike",
+    "source_zip": "Aldous-Pike-Reviewed-Revision33-Editable.zip",
+    "source_pdf": "PUBLICATION/Aldous-Pike-R33-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 4,
+    "artwork_file": "assets/approved-2026/aldous-pike/artwork.webp",
+    "webp_bytes": 54154
+  },
+  {
+    "project": "Brightmoor-Solar",
+    "slug": "brightmoor-solar",
+    "source_zip": "Brightmoor-Solar-Reviewed-Revision34-Editable.zip",
+    "source_pdf": "PUBLICATION/Brightmoor-Solar-R34-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 12,
+    "artwork_file": "assets/approved-2026/brightmoor-solar/artwork.webp",
+    "webp_bytes": 51788
+  },
+  {
+    "project": "Calloway",
+    "slug": "calloway",
+    "source_zip": "Calloway-Reviewed-Revision38-Editable.zip",
+    "source_pdf": "PUBLICATION/Calloway-R38-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 48,
+    "artwork_file": "assets/approved-2026/calloway/artwork.webp",
+    "webp_bytes": 36226
+  },
+  {
+    "project": "Civic",
+    "slug": "civic",
+    "source_zip": "Civic-Reviewed-Revision29-Editable.zip",
+    "source_pdf": "PUBLICATION/Civic-R29-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 12,
+    "artwork_file": "assets/approved-2026/civic/artwork.webp",
+    "webp_bytes": 39812
+  },
+  {
+    "project": "Clearpath-Coaching",
+    "slug": "clearpath-coaching",
+    "source_zip": "Clearpath-Coaching-Reviewed-Revision02-Editable.zip",
+    "source_pdf": "Clearpath-Coaching-Revision02/Clearpath-Coaching-Revision02-Review.pdf",
+    "source_pdf_pages": 28,
+    "artwork_file": "assets/approved-2026/clearpath-coaching/artwork.webp",
+    "webp_bytes": 30386
+  },
+  {
+    "project": "Clearwater",
+    "slug": "clearwater",
+    "source_zip": "Clearwater-Reviewed-Revision26-Editable.zip",
+    "source_pdf": "PUBLICATION/Clearwater-R26-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/clearwater/artwork.webp",
+    "webp_bytes": 28722
+  },
+  {
+    "project": "Common-Ground",
+    "slug": "common-ground",
+    "source_zip": "Common-Ground-Reviewed-Revision27-Editable.zip",
+    "source_pdf": "PUBLICATION/Common-Ground-R27-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/common-ground/artwork.webp",
+    "webp_bytes": 55442
+  },
+  {
+    "project": "Courtyard",
+    "slug": "courtyard",
+    "source_zip": "Courtyard-Reviewed-Revision21-Editable.zip",
+    "source_pdf": "PUBLICATION/Courtyard-R21-READING.pdf",
+    "source_pdf_pages": 4,
+    "artwork_file": "assets/approved-2026/courtyard/artwork.webp",
+    "webp_bytes": 41034
+  },
+  {
+    "project": "Daily-Form",
+    "slug": "daily-form",
+    "source_zip": "Daily-Form-Reviewed-Revision23-Editable.zip",
+    "source_pdf": "PUBLICATION/Daily-Form-R23-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/daily-form/artwork.webp",
+    "webp_bytes": 34810
+  },
+  {
+    "project": "Datum",
+    "slug": "datum",
+    "source_zip": "Datum-Reviewed-Revision28-Editable.zip",
+    "source_pdf": "PUBLICATION/Datum-R28-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 12,
+    "artwork_file": "assets/approved-2026/datum/artwork.webp",
+    "webp_bytes": 40536
+  },
+  {
+    "project": "Distributed-Work",
+    "slug": "distributed-work",
+    "source_zip": "Distributed-Work-Reviewed-Revision40-Editable.zip",
+    "source_pdf": "PUBLICATION/Distributed-Work-R40-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 24,
+    "artwork_file": "assets/approved-2026/distributed-work/artwork.webp",
+    "webp_bytes": 30006
+  },
+  {
+    "project": "Fernloop",
+    "slug": "fernloop",
+    "source_zip": "Fernloop-Reviewed-Revision39-Editable.zip",
+    "source_pdf": "PUBLICATION/Fernloop-R39-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 32,
+    "artwork_file": "assets/approved-2026/fernloop/artwork.webp",
+    "webp_bytes": 39990
+  },
+  {
+    "project": "Fieldnote",
+    "slug": "fieldnote",
+    "source_zip": "Fieldnote-Reviewed-Revision02-Editable.zip",
+    "source_pdf": "Fieldnote/PROOFS/Fieldnote-FOREST-LOOP-PROOF-02.pdf",
+    "source_pdf_pages": 2,
+    "artwork_file": "assets/approved-2026/fieldnote/artwork.webp",
+    "webp_bytes": 49718
+  },
+  {
+    "project": "Fieldnotes",
+    "slug": "fieldnotes",
+    "source_zip": "Fieldnotes-Reviewed-Revision18-Editable.zip",
+    "source_pdf": "PUBLICATION/Fieldnotes-R18-READING.pdf",
+    "source_pdf_pages": 16,
+    "artwork_file": "assets/approved-2026/fieldnotes/artwork.webp",
+    "webp_bytes": 26750
+  },
+  {
+    "project": "Gridshift",
+    "slug": "gridshift",
+    "source_zip": "Gridshift-Reviewed-Revision12-Editable.zip",
+    "source_pdf": "PUBLICATION/Gridshift-Reviewed-REV12-READING.pdf",
+    "source_pdf_pages": 7,
+    "artwork_file": "assets/approved-2026/gridshift/artwork.webp",
+    "webp_bytes": 24742
+  },
+  {
+    "project": "Halftone-Garden",
+    "slug": "halftone-garden",
+    "source_zip": "Halftone-Garden-Reviewed-Revision19-Editable.zip",
+    "source_pdf": "PUBLICATION/Halftone-Garden-R19-READING.pdf",
+    "source_pdf_pages": 24,
+    "artwork_file": "assets/approved-2026/halftone-garden/artwork.webp",
+    "webp_bytes": 44858
+  },
+  {
+    "project": "Halvorsen-Quill",
+    "slug": "halvorsen-quill",
+    "source_zip": "Halvorsen-Quill-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Halvorsen-Quill-Revision03/Halvorsen-Quill-Revision03-Review.pdf",
+    "source_pdf_pages": 16,
+    "artwork_file": "assets/approved-2026/halvorsen-quill/artwork.webp",
+    "webp_bytes": 36098
+  },
+  {
+    "project": "Harbor",
+    "slug": "harbor",
+    "source_zip": "Harbor-Reviewed-Revision25-Editable.zip",
+    "source_pdf": "PUBLICATION/Harbor-R25-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/harbor/artwork.webp",
+    "webp_bytes": 40418
+  },
+  {
+    "project": "Hearthwell",
+    "slug": "hearthwell",
+    "source_zip": "Hearthwell-Reviewed-Revision37-Editable.zip",
+    "source_pdf": "PUBLICATION/Hearthwell-R37-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 36,
+    "artwork_file": "assets/approved-2026/hearthwell/artwork.webp",
+    "webp_bytes": 38372
+  },
+  {
+    "project": "Hollow-Pine",
+    "slug": "hollow-pine",
+    "source_zip": "Hollow-Pine-Reviewed-Revision04-Editable.zip",
+    "source_pdf": "PUBLICATION/Hollow-Pine-Reviewed-REV04-READING.pdf",
+    "source_pdf_pages": 2,
+    "artwork_file": "assets/approved-2026/hollow-pine/artwork.webp",
+    "webp_bytes": 48918
+  },
+  {
+    "project": "Kiln-Cup",
+    "slug": "kiln-cup",
+    "source_zip": "Kiln-Cup-Reviewed-Revision12-Editable.zip",
+    "source_pdf": "CONTENT/Original-Screen-Reference.pdf",
+    "source_pdf_pages": 4,
+    "artwork_file": "assets/approved-2026/kiln-cup/artwork.webp",
+    "webp_bytes": 33832
+  },
+  {
+    "project": "Larkfield",
+    "slug": "larkfield",
+    "source_zip": "Larkfield-Reviewed-Revision32-Editable.zip",
+    "source_pdf": "PUBLICATION/Larkfield-R32-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 8,
+    "artwork_file": "assets/approved-2026/larkfield/artwork.webp",
+    "webp_bytes": 46338
+  },
+  {
+    "project": "Linden-Court",
+    "slug": "linden-court",
+    "source_zip": "Linden-Court-Reviewed-Revision35-Editable.zip",
+    "source_pdf": "PUBLICATION/Linden-Court-R35-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 20,
+    "artwork_file": "assets/approved-2026/linden-court/artwork.webp",
+    "webp_bytes": 28954
+  },
+  {
+    "project": "Make-Room",
+    "slug": "make-room",
+    "source_zip": "Make-Room-Reviewed-Revision13-Editable.zip",
+    "source_pdf": "PUBLICATION/Make-Room-Reviewed-REV13-READING.pdf",
+    "source_pdf_pages": 10,
+    "artwork_file": "assets/approved-2026/make-room/artwork.webp",
+    "webp_bytes": 16238
+  },
+  {
+    "project": "Material",
+    "slug": "material",
+    "source_zip": "Material-Reviewed-Revision30-Editable.zip",
+    "source_pdf": "PUBLICATION/Material-R30-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 16,
+    "artwork_file": "assets/approved-2026/material/artwork.webp",
+    "webp_bytes": 43070
+  },
+  {
+    "project": "Neighbour",
+    "slug": "neighbour",
+    "source_zip": "Neighbour-Reviewed-Revision24-Editable.zip",
+    "source_pdf": "PUBLICATION/Neighbour-R24-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 4,
+    "artwork_file": "assets/approved-2026/neighbour/artwork.webp",
+    "webp_bytes": 49874
+  },
+  {
+    "project": "Northline",
+    "slug": "northline",
+    "source_zip": "Northline-Reviewed-Wayfinding-Revision03-Editable.zip",
+    "source_pdf": "PUBLICATION/Northline-Screen-REV03.pdf",
+    "source_pdf_pages": 8,
+    "artwork_file": "assets/approved-2026/northline/artwork.webp",
+    "webp_bytes": 14680
+  },
+  {
+    "project": "Open-House",
+    "slug": "open-house",
+    "source_zip": "Open-House-Reviewed-Revision17-Editable.zip",
+    "source_pdf": "PUBLICATION/Open-House-R17-READING.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/open-house/artwork.webp",
+    "webp_bytes": 69798
+  },
+  {
+    "project": "Orlathread",
+    "slug": "orlathread",
+    "source_zip": "Orlathread-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Orlathread-Revision03/Orlathread-Revision03-Review.pdf",
+    "source_pdf_pages": 2,
+    "artwork_file": "assets/approved-2026/orlathread/artwork.webp",
+    "webp_bytes": 28068
+  },
+  {
+    "project": "Pattern",
+    "slug": "pattern",
+    "source_zip": "Pattern-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Pattern/PROOFS/Pattern-EDITORIAL-APPLICATION-PROOF-02.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/pattern/artwork.webp",
+    "webp_bytes": 32390
+  },
+  {
+    "project": "Quarterly-Index",
+    "slug": "quarterly-index",
+    "source_zip": "Quarterly-Index-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Quarterly-Index-Revision03/Quarterly-Index-Revision03-Review.pdf",
+    "source_pdf_pages": 28,
+    "artwork_file": "assets/approved-2026/quarterly-index/artwork.webp",
+    "webp_bytes": 48210
+  },
+  {
+    "project": "Signal",
+    "slug": "signal",
+    "source_zip": "Signal-Reviewed-Revision15-Editable.zip",
+    "source_pdf": "PUBLICATION/Signal-Reviewed-R15-READING.pdf",
+    "source_pdf_pages": 8,
+    "artwork_file": "assets/approved-2026/signal/artwork.webp",
+    "webp_bytes": 22268
+  },
+  {
+    "project": "Silence-Quarterly",
+    "slug": "silence-quarterly",
+    "source_zip": "Silence-Quarterly-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Silence-Quarterly-Revision03/Silence-Quarterly-Revision03-Review.pdf",
+    "source_pdf_pages": 32,
+    "artwork_file": "assets/approved-2026/silence-quarterly/artwork.webp",
+    "webp_bytes": 20922
+  },
+  {
+    "project": "Slowroad-Journal",
+    "slug": "slowroad-journal",
+    "source_zip": "Slowroad-Journal-Reviewed-Revision36-Editable.zip",
+    "source_pdf": "PUBLICATION/Slowroad-Journal-R36-SCREEN-SOURCE.pdf",
+    "source_pdf_pages": 24,
+    "artwork_file": "assets/approved-2026/slowroad-journal/artwork.webp",
+    "webp_bytes": 85662
+  },
+  {
+    "project": "Stillhouse",
+    "slug": "stillhouse",
+    "source_zip": "Stillhouse-Reviewed-Revision14-Editable.zip",
+    "source_pdf": "PUBLICATION/Stillhouse-Reviewed-R14-READING.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/stillhouse/artwork.webp",
+    "webp_bytes": 32672
+  },
+  {
+    "project": "Structure",
+    "slug": "structure",
+    "source_zip": "Structure-Reviewed-Revision16-Editable.zip",
+    "source_pdf": "PUBLICATION/Structure-R16-READING.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/structure/artwork.webp",
+    "webp_bytes": 40742
+  },
+  {
+    "project": "Table",
+    "slug": "table",
+    "source_zip": "Table-Reviewed-Revision05-Editable.zip",
+    "source_pdf": "Table/Publication/Table-FOOD-REVISION05-PROOF.pdf",
+    "source_pdf_pages": 4,
+    "artwork_file": "assets/approved-2026/table/artwork.webp",
+    "webp_bytes": 40666
+  },
+  {
+    "project": "Thread",
+    "slug": "thread",
+    "source_zip": "Thread-Reviewed-Revision22-Editable.zip",
+    "source_pdf": "PUBLICATION/Thread-R22-READING.pdf",
+    "source_pdf_pages": 6,
+    "artwork_file": "assets/approved-2026/thread/artwork.webp",
+    "webp_bytes": 64416
+  },
+  {
+    "project": "Tolvik",
+    "slug": "tolvik",
+    "source_zip": "Tolvik-Reviewed-Revision20-Editable.zip",
+    "source_pdf": "PUBLICATION/Tolvik-R20-READING.pdf",
+    "source_pdf_pages": 40,
+    "artwork_file": "assets/approved-2026/tolvik/artwork.webp",
+    "webp_bytes": 29392
+  },
+  {
+    "project": "Wellspring-Next",
+    "slug": "wellspring-next",
+    "source_zip": "Wellspring-Next-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Wellspring/EXPORT/Wellspring-Site-System-PROOF-03.pdf",
+    "source_pdf_pages": 2,
+    "artwork_file": "assets/approved-2026/wellspring-next/artwork.webp",
+    "webp_bytes": 50010
+  }
+]

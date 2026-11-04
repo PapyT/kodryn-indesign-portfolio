@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "featured_projects": 8,
+  "discipline_sections": 6,
+  "collection_sizes": [
+    7,
+    7,
+    6,
+    9,
+    4,
+    7
+  ],
+  "project_detail_routes": 40,
+  "archive_items": 40,
+  "archive_filter_first_category": 7,
+  "archive_search_solar": 1,
+  "image_viewer": 3,
+  "responsive_test_widths": [
+    390,
+    768,
+    1450
+  ],
+  "screenshots": [
+    "01-home-hero-desktop.png",
+    "02-home-selected-desktop.png",
+    "03-home-chapters-desktop.png",
+    "04-archive-desktop.png",
+    "05-collection-desktop.png",
+    "06-detail-desktop.png",
+    "07-home-tablet.png",
+    "08-home-mobile.png",
+    "09-home-selected-mobile.png",
+    "10-home-chapters-mobile.png",
+    "11-collection-mobile.png",
+    "12-archive-mobile.png",
+    "13-detail-mobile.png",
+    "14-home-dark.png",
+    "DESKTOP-VISUAL-REVIEW.png",
+    "REFINED-ARCHIVE.png",
+    "REFINED-CASE.png",
+    "REFINED-CHAPTERS.png",
+    "REFINED-COLLECTION.png",
+    "REFINED-HERO.png",
+    "REFINED-SECTIONS-REVIEW.png",
+    "REFINED-SELECTED.png"
+  ],
+  "errors": []
+}
