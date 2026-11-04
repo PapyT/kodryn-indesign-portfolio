@@ -1,0 +1,16 @@
+{
+  "desktop_projects": 40,
+  "category_zero_count": 7,
+  "search_solar_count": 1,
+  "detail_boards": 3,
+  "mobile_horizontal_overflow_px": 0,
+  "mobile_detail_horizontal_overflow_px": 0,
+  "console_errors": [],
+  "screenshots": [
+    "homepage-desktop.png",
+    "homepage-mobile.png",
+    "project-desktop.png",
+    "project-mobile.png"
+  ],
+  "status": "PASS"
+}
