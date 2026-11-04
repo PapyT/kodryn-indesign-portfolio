@@ -1,5 +1,35 @@
 (() => {
   'use strict';
+
+  // The default ('system') deliberately leaves data-theme unset.
+  const themeKey = 'kodryn-theme';
+  let theme = 'system';
+  try { const stored = localStorage.getItem(themeKey); if (stored === 'light' || stored === 'dark') theme = stored; } catch (_) {}
+  const applyTheme = (value) => {
+    if (value === 'system') document.documentElement.removeAttribute('data-theme');
+    else document.documentElement.setAttribute('data-theme', value);
+  };
+  applyTheme(theme);
+  const header = document.querySelector('.site-header');
+  if (header) {
+    const holder = document.createElement('div');
+    holder.className = 'theme-switcher';
+    const label = document.createElement('label');
+    label.htmlFor = 'theme-choice'; label.textContent = 'Theme';
+    const select = document.createElement('select');
+    select.id = 'theme-choice'; select.setAttribute('aria-label', 'Choose appearance theme');
+    [['system','System'], ['light','Light'], ['dark','Dark']].forEach(([value, text]) => {
+      const option = document.createElement('option'); option.value = value; option.textContent = text; select.appendChild(option);
+    });
+    select.value = theme;
+    select.addEventListener('change', () => {
+      theme = select.value; applyTheme(theme);
+      try { if (theme === 'system') localStorage.removeItem(themeKey); else localStorage.setItem(themeKey, theme); } catch (_) {}
+    });
+    holder.append(label, select);
+    header.appendChild(holder);
+  }
+
   const qs = (q, root = document) => root.querySelector(q);
   const qsa = (q, root = document) => Array.from(root.querySelectorAll(q));
 
