@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://kodryn-indesign-portfolio.vercel.app/</loc></url>
+<url><loc>https://kodryn-indesign-portfolio.vercel.app/work/</loc></url>
+<url><loc>https://kodryn-indesign-portfolio.vercel.app/disciplines/identity-and-packaging/</loc></url>
+<url><loc>https://kodryn-indesign-portfolio.vercel.app/disciplines/spaces-and-hospitality/</loc></url>
+<url><loc>https://kodryn-indesign-portfolio.vercel.app/disciplines/product-and-commerce/</loc></url>
+<url><loc>https://kodryn-indesign-portfolio.vercel.app/disciplines/editorial-and-culture/</loc></url>
+<url><loc>https://kodryn-indesign-portfolio.vercel.app/disciplines/services-and-experience/</loc></url>
+<url><loc>https://kodryn-indesign-portfolio.vercel.app/disciplines/reports-and-research/</loc></url>
 <url><loc>https://kodryn-indesign-portfolio.vercel.app/work/aldous-pike/</loc></url>
 <url><loc>https://kodryn-indesign-portfolio.vercel.app/work/brightmoor-solar/</loc></url>
 <url><loc>https://kodryn-indesign-portfolio.vercel.app/work/calloway/</loc></url>
