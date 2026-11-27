@@ -1,0 +1,923 @@
+[
+  {
+    "label": "light 320 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 320 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 320 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 320 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 320 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 320 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 390 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 390 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 390 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 390 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 390 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 390 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 580 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 580 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 580 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 580 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 580 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 580 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 768 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 768 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 768 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 768 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 768 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 768 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 820 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 820 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 820 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 820 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 820 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 820 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1024 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1024 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1024 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1024 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1024 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1024 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1440 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1440 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1440 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1440 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1440 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1440 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1920 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1920 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1920 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1920 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1920 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "light 1920 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(243, 247, 244)"
+  },
+  {
+    "label": "dark 320 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 320 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 320 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 320 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 320 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 320 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 390 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 390 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 390 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 390 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 390 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 390 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 580 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 580 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 580 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 580 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 580 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 580 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 768 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 768 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 768 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 768 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 768 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 768 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 820 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 820 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 820 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 820 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 820 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 820 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1024 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1024 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1024 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1024 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1024 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1024 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1440 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1440 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1440 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1440 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1440 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1440 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1920 /",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1920 /work/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1920 /work/calloway/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1920 /enquire/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1920 /services/reports/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "dark 1920 /disciplines/editorial-and-culture/",
+    "ok": true,
+    "overflow": false,
+    "wide": [],
+    "failed": [],
+    "icon": true,
+    "theme": "rgb(7, 31, 36)"
+  },
+  {
+    "label": "Light theme",
+    "ok": true
+  },
+  {
+    "label": "Dark theme",
+    "ok": true
+  },
+  {
+    "label": "Dark persists",
+    "ok": true
+  },
+  {
+    "label": "System resets",
+    "ok": true
+  },
+  {
+    "label": "Archive reports",
+    "ok": true
+  },
+  {
+    "label": "Archive search",
+    "ok": true
+  },
+  {
+    "label": "Feature gallery opens",
+    "ok": true
+  },
+  {
+    "label": "Gallery advances",
+    "ok": true
+  },
+  {
+    "label": "Gallery closes",
+    "ok": true
+  },
+  {
+    "label": "Source image opens",
+    "ok": true
+  },
+  {
+    "label": "Reference and service preselected",
+    "ok": true
+  },
+  {
+    "label": "Brief generated",
+    "ok": true
+  },
+  {
+    "label": "Export enabled",
+    "ok": true
+  },
+  {
+    "label": "No JS errors",
+    "ok": true,
+    "errors": []
+  }
+]

@@ -1,0 +1,885 @@
+{
+  "rows": [
+    {
+      "route": "/disciplines/editorial-and-culture/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/identity-and-packaging/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/product-and-commerce/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/reports-and-research/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/services-and-experience/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/spaces-and-hospitality/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/enquire/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/brochures/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/catalogues/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/identity/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/magazines/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/reports/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/workbooks/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/aldous-pike/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/brightmoor-solar/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/calloway/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/civic/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/clearpath-coaching/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/clearwater/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/common-ground/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/courtyard/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/daily-form/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/datum/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/distributed-work/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/fernloop/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/fieldnote/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/fieldnotes/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/gridshift/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/halftone-garden/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/halvorsen-quill/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/harbor/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/hearthwell/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/hollow-pine/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/kiln-cup/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/larkfield/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/linden-court/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/make-room/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/material/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/neighbour/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/northline/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/open-house/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/orlathread/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/pattern/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/quarterly-index/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/signal/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/silence-quarterly/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/slowroad-journal/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/stillhouse/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/structure/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/table/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/thread/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/tolvik/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/wellspring-next/",
+      "mode": "light",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/editorial-and-culture/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/identity-and-packaging/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/product-and-commerce/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/reports-and-research/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/services-and-experience/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/disciplines/spaces-and-hospitality/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/enquire/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/brochures/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/catalogues/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/identity/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/magazines/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/reports/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/services/workbooks/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/aldous-pike/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/brightmoor-solar/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/calloway/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/civic/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/clearpath-coaching/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/clearwater/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/common-ground/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/courtyard/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/daily-form/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/datum/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/distributed-work/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/fernloop/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/fieldnote/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/fieldnotes/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/gridshift/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/halftone-garden/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/halvorsen-quill/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/harbor/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/hearthwell/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/hollow-pine/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/kiln-cup/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/larkfield/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/linden-court/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/make-room/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/material/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/neighbour/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/northline/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/open-house/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/orlathread/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/pattern/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/quarterly-index/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/signal/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/silence-quarterly/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/slowroad-journal/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/stillhouse/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/structure/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/table/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/thread/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/tolvik/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    },
+    {
+      "route": "/work/wellspring-next/",
+      "mode": "dark",
+      "ok": true,
+      "overflow": false,
+      "failed": [],
+      "bad": []
+    }
+  ],
+  "errors": []
+}

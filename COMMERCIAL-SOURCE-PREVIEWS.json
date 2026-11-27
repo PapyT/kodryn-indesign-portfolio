@@ -9,7 +9,11 @@
       3
     ],
     "source_zip": "Aldous-Pike-Reviewed-Revision33-Editable.zip",
-    "source_pdf": "PUBLICATION/Aldous-Pike-R33-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Aldous-Pike-R33-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      3,
+      2
+    ]
   },
   "brightmoor-solar": {
     "pages": 12,
@@ -18,10 +22,15 @@
     "preview_pages": [
       1,
       2,
+      6,
       7
     ],
     "source_zip": "Brightmoor-Solar-Reviewed-Revision34-Editable.zip",
-    "source_pdf": "PUBLICATION/Brightmoor-Solar-R34-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Brightmoor-Solar-R34-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      7,
+      6
+    ]
   },
   "calloway": {
     "pages": 48,
@@ -30,10 +39,16 @@
     "preview_pages": [
       1,
       2,
+      18,
+      22,
       25
     ],
     "source_zip": "Calloway-Reviewed-Revision38-Editable.zip",
-    "source_pdf": "PUBLICATION/Calloway-R38-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Calloway-R38-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      18,
+      22
+    ]
   },
   "civic": {
     "pages": 12,
@@ -42,10 +57,16 @@
     "preview_pages": [
       1,
       2,
-      7
+      7,
+      8,
+      9
     ],
     "source_zip": "Civic-Reviewed-Revision29-Editable.zip",
-    "source_pdf": "PUBLICATION/Civic-R29-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Civic-R29-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      9,
+      8
+    ]
   },
   "clearpath-coaching": {
     "pages": 28,
@@ -54,10 +75,16 @@
     "preview_pages": [
       1,
       2,
-      15
+      5,
+      15,
+      25
     ],
     "source_zip": "Clearpath-Coaching-Reviewed-Revision02-Editable.zip",
-    "source_pdf": "Clearpath-Coaching-Revision02/Clearpath-Coaching-Revision02-Review.pdf"
+    "source_pdf": "Clearpath-Coaching-Revision02/Clearpath-Coaching-Revision02-Review.pdf",
+    "feature_pages": [
+      25,
+      5
+    ]
   },
   "clearwater": {
     "pages": 6,
@@ -66,10 +93,15 @@
     "preview_pages": [
       1,
       2,
+      3,
       4
     ],
     "source_zip": "Clearwater-Reviewed-Revision26-Editable.zip",
-    "source_pdf": "PUBLICATION/Clearwater-R26-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Clearwater-R26-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      4,
+      3
+    ]
   },
   "common-ground": {
     "pages": 6,
@@ -78,10 +110,16 @@
     "preview_pages": [
       1,
       2,
-      4
+      4,
+      5,
+      6
     ],
     "source_zip": "Common-Ground-Reviewed-Revision27-Editable.zip",
-    "source_pdf": "PUBLICATION/Common-Ground-R27-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Common-Ground-R27-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      6,
+      5
+    ]
   },
   "courtyard": {
     "pages": 4,
@@ -93,7 +131,11 @@
       3
     ],
     "source_zip": "Courtyard-Reviewed-Revision21-Editable.zip",
-    "source_pdf": "PUBLICATION/Courtyard-R21-READING.pdf"
+    "source_pdf": "PUBLICATION/Courtyard-R21-READING.pdf",
+    "feature_pages": [
+      3,
+      2
+    ]
   },
   "daily-form": {
     "pages": 6,
@@ -102,10 +144,15 @@
     "preview_pages": [
       1,
       2,
+      3,
       4
     ],
     "source_zip": "Daily-Form-Reviewed-Revision23-Editable.zip",
-    "source_pdf": "PUBLICATION/Daily-Form-R23-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Daily-Form-R23-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      2,
+      3
+    ]
   },
   "datum": {
     "pages": 12,
@@ -114,10 +161,16 @@
     "preview_pages": [
       1,
       2,
+      5,
+      6,
       7
     ],
     "source_zip": "Datum-Reviewed-Revision28-Editable.zip",
-    "source_pdf": "PUBLICATION/Datum-R28-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Datum-R28-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      6,
+      5
+    ]
   },
   "distributed-work": {
     "pages": 24,
@@ -126,10 +179,16 @@
     "preview_pages": [
       1,
       2,
-      13
+      13,
+      18,
+      19
     ],
     "source_zip": "Distributed-Work-Reviewed-Revision40-Editable.zip",
-    "source_pdf": "PUBLICATION/Distributed-Work-R40-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Distributed-Work-R40-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      18,
+      19
+    ]
   },
   "fernloop": {
     "pages": 32,
@@ -138,10 +197,16 @@
     "preview_pages": [
       1,
       2,
-      17
+      14,
+      17,
+      20
     ],
     "source_zip": "Fernloop-Reviewed-Revision39-Editable.zip",
-    "source_pdf": "PUBLICATION/Fernloop-R39-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Fernloop-R39-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      20,
+      14
+    ]
   },
   "fieldnote": {
     "pages": 2,
@@ -152,7 +217,10 @@
       2
     ],
     "source_zip": "Fieldnote-Reviewed-Revision02-Editable.zip",
-    "source_pdf": "Fieldnote/PROOFS/Fieldnote-FOREST-LOOP-PROOF-02.pdf"
+    "source_pdf": "Fieldnote/PROOFS/Fieldnote-FOREST-LOOP-PROOF-02.pdf",
+    "feature_pages": [
+      2
+    ]
   },
   "fieldnotes": {
     "pages": 16,
@@ -161,10 +229,16 @@
     "preview_pages": [
       1,
       2,
+      5,
+      6,
       9
     ],
     "source_zip": "Fieldnotes-Reviewed-Revision18-Editable.zip",
-    "source_pdf": "PUBLICATION/Fieldnotes-R18-READING.pdf"
+    "source_pdf": "PUBLICATION/Fieldnotes-R18-READING.pdf",
+    "feature_pages": [
+      6,
+      5
+    ]
   },
   "gridshift": {
     "pages": 7,
@@ -173,10 +247,16 @@
     "preview_pages": [
       1,
       2,
-      4
+      4,
+      6,
+      7
     ],
     "source_zip": "Gridshift-Reviewed-Revision12-Editable.zip",
-    "source_pdf": "PUBLICATION/Gridshift-Reviewed-REV12-READING.pdf"
+    "source_pdf": "PUBLICATION/Gridshift-Reviewed-REV12-READING.pdf",
+    "feature_pages": [
+      7,
+      6
+    ]
   },
   "halftone-garden": {
     "pages": 24,
@@ -185,10 +265,15 @@
     "preview_pages": [
       1,
       2,
-      13
+      13,
+      14
     ],
     "source_zip": "Halftone-Garden-Reviewed-Revision19-Editable.zip",
-    "source_pdf": "PUBLICATION/Halftone-Garden-R19-READING.pdf"
+    "source_pdf": "PUBLICATION/Halftone-Garden-R19-READING.pdf",
+    "feature_pages": [
+      13,
+      14
+    ]
   },
   "halvorsen-quill": {
     "pages": 16,
@@ -197,10 +282,16 @@
     "preview_pages": [
       1,
       2,
-      9
+      6,
+      9,
+      16
     ],
     "source_zip": "Halvorsen-Quill-Reviewed-Revision03-Editable.zip",
-    "source_pdf": "Halvorsen-Quill-Revision03/Halvorsen-Quill-Revision03-Review.pdf"
+    "source_pdf": "Halvorsen-Quill-Revision03/Halvorsen-Quill-Revision03-Review.pdf",
+    "feature_pages": [
+      6,
+      16
+    ]
   },
   "harbor": {
     "pages": 6,
@@ -209,10 +300,15 @@
     "preview_pages": [
       1,
       2,
-      4
+      4,
+      5
     ],
     "source_zip": "Harbor-Reviewed-Revision25-Editable.zip",
-    "source_pdf": "PUBLICATION/Harbor-R25-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Harbor-R25-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      5,
+      4
+    ]
   },
   "hearthwell": {
     "pages": 36,
@@ -221,10 +317,16 @@
     "preview_pages": [
       1,
       2,
+      8,
+      16,
       19
     ],
     "source_zip": "Hearthwell-Reviewed-Revision37-Editable.zip",
-    "source_pdf": "PUBLICATION/Hearthwell-R37-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Hearthwell-R37-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      16,
+      8
+    ]
   },
   "hollow-pine": {
     "pages": 2,
@@ -235,7 +337,10 @@
       2
     ],
     "source_zip": "Hollow-Pine-Reviewed-Revision04-Editable.zip",
-    "source_pdf": "PUBLICATION/Hollow-Pine-Reviewed-REV04-READING.pdf"
+    "source_pdf": "PUBLICATION/Hollow-Pine-Reviewed-REV04-READING.pdf",
+    "feature_pages": [
+      2
+    ]
   },
   "kiln-cup": {
     "pages": 4,
@@ -244,10 +349,15 @@
     "preview_pages": [
       1,
       2,
-      3
+      3,
+      4
     ],
     "source_zip": "Kiln-Cup-Reviewed-Revision12-Editable.zip",
-    "source_pdf": "CONTENT/Original-Screen-Reference.pdf"
+    "source_pdf": "CONTENT/Original-Screen-Reference.pdf",
+    "feature_pages": [
+      4,
+      3
+    ]
   },
   "larkfield": {
     "pages": 8,
@@ -256,10 +366,15 @@
     "preview_pages": [
       1,
       2,
+      3,
       5
     ],
     "source_zip": "Larkfield-Reviewed-Revision32-Editable.zip",
-    "source_pdf": "PUBLICATION/Larkfield-R32-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Larkfield-R32-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      2,
+      3
+    ]
   },
   "linden-court": {
     "pages": 20,
@@ -268,10 +383,16 @@
     "preview_pages": [
       1,
       2,
+      8,
+      9,
       11
     ],
     "source_zip": "Linden-Court-Reviewed-Revision35-Editable.zip",
-    "source_pdf": "PUBLICATION/Linden-Court-R35-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Linden-Court-R35-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      8,
+      9
+    ]
   },
   "make-room": {
     "pages": 10,
@@ -280,10 +401,16 @@
     "preview_pages": [
       1,
       2,
+      3,
+      4,
       6
     ],
     "source_zip": "Make-Room-Reviewed-Revision13-Editable.zip",
-    "source_pdf": "PUBLICATION/Make-Room-Reviewed-REV13-READING.pdf"
+    "source_pdf": "PUBLICATION/Make-Room-Reviewed-REV13-READING.pdf",
+    "feature_pages": [
+      4,
+      3
+    ]
   },
   "material": {
     "pages": 16,
@@ -292,10 +419,16 @@
     "preview_pages": [
       1,
       2,
-      9
+      4,
+      9,
+      12
     ],
     "source_zip": "Material-Reviewed-Revision30-Editable.zip",
-    "source_pdf": "PUBLICATION/Material-R30-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Material-R30-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      4,
+      12
+    ]
   },
   "neighbour": {
     "pages": 4,
@@ -304,10 +437,15 @@
     "preview_pages": [
       1,
       2,
-      3
+      3,
+      4
     ],
     "source_zip": "Neighbour-Reviewed-Revision24-Editable.zip",
-    "source_pdf": "PUBLICATION/Neighbour-R24-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Neighbour-R24-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      3,
+      4
+    ]
   },
   "northline": {
     "pages": 8,
@@ -316,10 +454,16 @@
     "preview_pages": [
       1,
       2,
-      5
+      5,
+      7,
+      8
     ],
     "source_zip": "Northline-Reviewed-Wayfinding-Revision03-Editable.zip",
-    "source_pdf": "PUBLICATION/Northline-Screen-REV03.pdf"
+    "source_pdf": "PUBLICATION/Northline-Screen-REV03.pdf",
+    "feature_pages": [
+      8,
+      7
+    ]
   },
   "open-house": {
     "pages": 6,
@@ -328,10 +472,15 @@
     "preview_pages": [
       1,
       2,
-      4
+      4,
+      5
     ],
     "source_zip": "Open-House-Reviewed-Revision17-Editable.zip",
-    "source_pdf": "PUBLICATION/Open-House-R17-READING.pdf"
+    "source_pdf": "PUBLICATION/Open-House-R17-READING.pdf",
+    "feature_pages": [
+      4,
+      5
+    ]
   },
   "orlathread": {
     "pages": 2,
@@ -342,7 +491,10 @@
       2
     ],
     "source_zip": "Orlathread-Reviewed-Revision03-Editable.zip",
-    "source_pdf": "Orlathread-Revision03/Orlathread-Revision03-Review.pdf"
+    "source_pdf": "Orlathread-Revision03/Orlathread-Revision03-Review.pdf",
+    "feature_pages": [
+      2
+    ]
   },
   "pattern": {
     "pages": 6,
@@ -351,10 +503,16 @@
     "preview_pages": [
       1,
       2,
-      4
+      4,
+      5,
+      6
     ],
     "source_zip": "Pattern-Reviewed-Revision03-Editable.zip",
-    "source_pdf": "Pattern/PROOFS/Pattern-EDITORIAL-APPLICATION-PROOF-02.pdf"
+    "source_pdf": "Pattern/PROOFS/Pattern-EDITORIAL-APPLICATION-PROOF-02.pdf",
+    "feature_pages": [
+      6,
+      5
+    ]
   },
   "quarterly-index": {
     "pages": 28,
@@ -363,10 +521,16 @@
     "preview_pages": [
       1,
       2,
+      12,
+      14,
       15
     ],
     "source_zip": "Quarterly-Index-Reviewed-Revision03-Editable.zip",
-    "source_pdf": "Quarterly-Index-Revision03/Quarterly-Index-Revision03-Review.pdf"
+    "source_pdf": "Quarterly-Index-Revision03/Quarterly-Index-Revision03-Review.pdf",
+    "feature_pages": [
+      12,
+      14
+    ]
   },
   "signal": {
     "pages": 8,
@@ -375,10 +539,16 @@
     "preview_pages": [
       1,
       2,
-      5
+      5,
+      6,
+      7
     ],
     "source_zip": "Signal-Reviewed-Revision15-Editable.zip",
-    "source_pdf": "PUBLICATION/Signal-Reviewed-R15-READING.pdf"
+    "source_pdf": "PUBLICATION/Signal-Reviewed-R15-READING.pdf",
+    "feature_pages": [
+      6,
+      7
+    ]
   },
   "silence-quarterly": {
     "pages": 32,
@@ -387,10 +557,15 @@
     "preview_pages": [
       1,
       2,
+      16,
       17
     ],
     "source_zip": "Silence-Quarterly-Reviewed-Revision03-Editable.zip",
-    "source_pdf": "Silence-Quarterly-Revision03/Silence-Quarterly-Revision03-Review.pdf"
+    "source_pdf": "Silence-Quarterly-Revision03/Silence-Quarterly-Revision03-Review.pdf",
+    "feature_pages": [
+      17,
+      16
+    ]
   },
   "slowroad-journal": {
     "pages": 24,
@@ -399,10 +574,16 @@
     "preview_pages": [
       1,
       2,
+      4,
+      9,
       13
     ],
     "source_zip": "Slowroad-Journal-Reviewed-Revision36-Editable.zip",
-    "source_pdf": "PUBLICATION/Slowroad-Journal-R36-SCREEN-SOURCE.pdf"
+    "source_pdf": "PUBLICATION/Slowroad-Journal-R36-SCREEN-SOURCE.pdf",
+    "feature_pages": [
+      4,
+      9
+    ]
   },
   "stillhouse": {
     "pages": 6,
@@ -411,10 +592,16 @@
     "preview_pages": [
       1,
       2,
-      4
+      3,
+      4,
+      5
     ],
     "source_zip": "Stillhouse-Reviewed-Revision14-Editable.zip",
-    "source_pdf": "PUBLICATION/Stillhouse-Reviewed-R14-READING.pdf"
+    "source_pdf": "PUBLICATION/Stillhouse-Reviewed-R14-READING.pdf",
+    "feature_pages": [
+      5,
+      3
+    ]
   },
   "structure": {
     "pages": 6,
@@ -423,10 +610,15 @@
     "preview_pages": [
       1,
       2,
-      4
+      4,
+      5
     ],
     "source_zip": "Structure-Reviewed-Revision16-Editable.zip",
-    "source_pdf": "PUBLICATION/Structure-R16-READING.pdf"
+    "source_pdf": "PUBLICATION/Structure-R16-READING.pdf",
+    "feature_pages": [
+      5,
+      2
+    ]
   },
   "table": {
     "pages": 4,
@@ -435,10 +627,15 @@
     "preview_pages": [
       1,
       2,
-      3
+      3,
+      4
     ],
     "source_zip": "Table-Reviewed-Revision05-Editable.zip",
-    "source_pdf": "Table/Publication/Table-FOOD-REVISION05-PROOF.pdf"
+    "source_pdf": "Table/Publication/Table-FOOD-REVISION05-PROOF.pdf",
+    "feature_pages": [
+      4,
+      3
+    ]
   },
   "thread": {
     "pages": 6,
@@ -447,10 +644,15 @@
     "preview_pages": [
       1,
       2,
+      3,
       4
     ],
     "source_zip": "Thread-Reviewed-Revision22-Editable.zip",
-    "source_pdf": "PUBLICATION/Thread-R22-READING.pdf"
+    "source_pdf": "PUBLICATION/Thread-R22-READING.pdf",
+    "feature_pages": [
+      2,
+      3
+    ]
   },
   "tolvik": {
     "pages": 40,
@@ -459,10 +661,16 @@
     "preview_pages": [
       1,
       2,
+      6,
+      7,
       21
     ],
     "source_zip": "Tolvik-Reviewed-Revision20-Editable.zip",
-    "source_pdf": "PUBLICATION/Tolvik-R20-READING.pdf"
+    "source_pdf": "PUBLICATION/Tolvik-R20-READING.pdf",
+    "feature_pages": [
+      6,
+      7
+    ]
   },
   "wellspring-next": {
     "pages": 2,
@@ -473,6 +681,9 @@
       2
     ],
     "source_zip": "Wellspring-Next-Reviewed-Revision03-Editable.zip",
-    "source_pdf": "Wellspring/EXPORT/Wellspring-Site-System-PROOF-03.pdf"
+    "source_pdf": "Wellspring/EXPORT/Wellspring-Site-System-PROOF-03.pdf",
+    "feature_pages": [
+      2
+    ]
   }
 }
