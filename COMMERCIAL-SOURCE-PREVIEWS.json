@@ -1,0 +1,478 @@
+{
+  "aldous-pike": {
+    "pages": 4,
+    "width_mm": 148.5,
+    "height_mm": 210.0,
+    "preview_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_zip": "Aldous-Pike-Reviewed-Revision33-Editable.zip",
+    "source_pdf": "PUBLICATION/Aldous-Pike-R33-SCREEN-SOURCE.pdf"
+  },
+  "brightmoor-solar": {
+    "pages": 12,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      7
+    ],
+    "source_zip": "Brightmoor-Solar-Reviewed-Revision34-Editable.zip",
+    "source_pdf": "PUBLICATION/Brightmoor-Solar-R34-SCREEN-SOURCE.pdf"
+  },
+  "calloway": {
+    "pages": 48,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      25
+    ],
+    "source_zip": "Calloway-Reviewed-Revision38-Editable.zip",
+    "source_pdf": "PUBLICATION/Calloway-R38-SCREEN-SOURCE.pdf"
+  },
+  "civic": {
+    "pages": 12,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      7
+    ],
+    "source_zip": "Civic-Reviewed-Revision29-Editable.zip",
+    "source_pdf": "PUBLICATION/Civic-R29-SCREEN-SOURCE.pdf"
+  },
+  "clearpath-coaching": {
+    "pages": 28,
+    "width_mm": 215.9,
+    "height_mm": 279.4,
+    "preview_pages": [
+      1,
+      2,
+      15
+    ],
+    "source_zip": "Clearpath-Coaching-Reviewed-Revision02-Editable.zip",
+    "source_pdf": "Clearpath-Coaching-Revision02/Clearpath-Coaching-Revision02-Review.pdf"
+  },
+  "clearwater": {
+    "pages": 6,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Clearwater-Reviewed-Revision26-Editable.zip",
+    "source_pdf": "PUBLICATION/Clearwater-R26-SCREEN-SOURCE.pdf"
+  },
+  "common-ground": {
+    "pages": 6,
+    "width_mm": 200.0,
+    "height_mm": 250.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Common-Ground-Reviewed-Revision27-Editable.zip",
+    "source_pdf": "PUBLICATION/Common-Ground-R27-SCREEN-SOURCE.pdf"
+  },
+  "courtyard": {
+    "pages": 4,
+    "width_mm": 210.0,
+    "height_mm": 210.0,
+    "preview_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_zip": "Courtyard-Reviewed-Revision21-Editable.zip",
+    "source_pdf": "PUBLICATION/Courtyard-R21-READING.pdf"
+  },
+  "daily-form": {
+    "pages": 6,
+    "width_mm": 200.0,
+    "height_mm": 250.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Daily-Form-Reviewed-Revision23-Editable.zip",
+    "source_pdf": "PUBLICATION/Daily-Form-R23-SCREEN-SOURCE.pdf"
+  },
+  "datum": {
+    "pages": 12,
+    "width_mm": 210.0,
+    "height_mm": 280.0,
+    "preview_pages": [
+      1,
+      2,
+      7
+    ],
+    "source_zip": "Datum-Reviewed-Revision28-Editable.zip",
+    "source_pdf": "PUBLICATION/Datum-R28-SCREEN-SOURCE.pdf"
+  },
+  "distributed-work": {
+    "pages": 24,
+    "width_mm": 215.9,
+    "height_mm": 279.4,
+    "preview_pages": [
+      1,
+      2,
+      13
+    ],
+    "source_zip": "Distributed-Work-Reviewed-Revision40-Editable.zip",
+    "source_pdf": "PUBLICATION/Distributed-Work-R40-SCREEN-SOURCE.pdf"
+  },
+  "fernloop": {
+    "pages": 32,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      17
+    ],
+    "source_zip": "Fernloop-Reviewed-Revision39-Editable.zip",
+    "source_pdf": "PUBLICATION/Fernloop-R39-SCREEN-SOURCE.pdf"
+  },
+  "fieldnote": {
+    "pages": 2,
+    "width_mm": 303.0,
+    "height_mm": 216.0,
+    "preview_pages": [
+      1,
+      2
+    ],
+    "source_zip": "Fieldnote-Reviewed-Revision02-Editable.zip",
+    "source_pdf": "Fieldnote/PROOFS/Fieldnote-FOREST-LOOP-PROOF-02.pdf"
+  },
+  "fieldnotes": {
+    "pages": 16,
+    "width_mm": 677.3,
+    "height_mm": 381.0,
+    "preview_pages": [
+      1,
+      2,
+      9
+    ],
+    "source_zip": "Fieldnotes-Reviewed-Revision18-Editable.zip",
+    "source_pdf": "PUBLICATION/Fieldnotes-R18-READING.pdf"
+  },
+  "gridshift": {
+    "pages": 7,
+    "width_mm": 216.0,
+    "height_mm": 303.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Gridshift-Reviewed-Revision12-Editable.zip",
+    "source_pdf": "PUBLICATION/Gridshift-Reviewed-REV12-READING.pdf"
+  },
+  "halftone-garden": {
+    "pages": 24,
+    "width_mm": 148.0,
+    "height_mm": 210.0,
+    "preview_pages": [
+      1,
+      2,
+      13
+    ],
+    "source_zip": "Halftone-Garden-Reviewed-Revision19-Editable.zip",
+    "source_pdf": "PUBLICATION/Halftone-Garden-R19-READING.pdf"
+  },
+  "halvorsen-quill": {
+    "pages": 16,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      9
+    ],
+    "source_zip": "Halvorsen-Quill-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Halvorsen-Quill-Revision03/Halvorsen-Quill-Revision03-Review.pdf"
+  },
+  "harbor": {
+    "pages": 6,
+    "width_mm": 210.0,
+    "height_mm": 260.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Harbor-Reviewed-Revision25-Editable.zip",
+    "source_pdf": "PUBLICATION/Harbor-R25-SCREEN-SOURCE.pdf"
+  },
+  "hearthwell": {
+    "pages": 36,
+    "width_mm": 240.0,
+    "height_mm": 240.0,
+    "preview_pages": [
+      1,
+      2,
+      19
+    ],
+    "source_zip": "Hearthwell-Reviewed-Revision37-Editable.zip",
+    "source_pdf": "PUBLICATION/Hearthwell-R37-SCREEN-SOURCE.pdf"
+  },
+  "hollow-pine": {
+    "pages": 2,
+    "width_mm": 303.0,
+    "height_mm": 216.0,
+    "preview_pages": [
+      1,
+      2
+    ],
+    "source_zip": "Hollow-Pine-Reviewed-Revision04-Editable.zip",
+    "source_pdf": "PUBLICATION/Hollow-Pine-Reviewed-REV04-READING.pdf"
+  },
+  "kiln-cup": {
+    "pages": 4,
+    "width_mm": 148.0,
+    "height_mm": 210.0,
+    "preview_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_zip": "Kiln-Cup-Reviewed-Revision12-Editable.zip",
+    "source_pdf": "CONTENT/Original-Screen-Reference.pdf"
+  },
+  "larkfield": {
+    "pages": 8,
+    "width_mm": 148.0,
+    "height_mm": 210.0,
+    "preview_pages": [
+      1,
+      2,
+      5
+    ],
+    "source_zip": "Larkfield-Reviewed-Revision32-Editable.zip",
+    "source_pdf": "PUBLICATION/Larkfield-R32-SCREEN-SOURCE.pdf"
+  },
+  "linden-court": {
+    "pages": 20,
+    "width_mm": 297.0,
+    "height_mm": 210.0,
+    "preview_pages": [
+      1,
+      2,
+      11
+    ],
+    "source_zip": "Linden-Court-Reviewed-Revision35-Editable.zip",
+    "source_pdf": "PUBLICATION/Linden-Court-R35-SCREEN-SOURCE.pdf"
+  },
+  "make-room": {
+    "pages": 10,
+    "width_mm": 216.0,
+    "height_mm": 303.0,
+    "preview_pages": [
+      1,
+      2,
+      6
+    ],
+    "source_zip": "Make-Room-Reviewed-Revision13-Editable.zip",
+    "source_pdf": "PUBLICATION/Make-Room-Reviewed-REV13-READING.pdf"
+  },
+  "material": {
+    "pages": 16,
+    "width_mm": 190.0,
+    "height_mm": 250.0,
+    "preview_pages": [
+      1,
+      2,
+      9
+    ],
+    "source_zip": "Material-Reviewed-Revision30-Editable.zip",
+    "source_pdf": "PUBLICATION/Material-R30-SCREEN-SOURCE.pdf"
+  },
+  "neighbour": {
+    "pages": 4,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_zip": "Neighbour-Reviewed-Revision24-Editable.zip",
+    "source_pdf": "PUBLICATION/Neighbour-R24-SCREEN-SOURCE.pdf"
+  },
+  "northline": {
+    "pages": 8,
+    "width_mm": 266.0,
+    "height_mm": 196.0,
+    "preview_pages": [
+      1,
+      2,
+      5
+    ],
+    "source_zip": "Northline-Reviewed-Wayfinding-Revision03-Editable.zip",
+    "source_pdf": "PUBLICATION/Northline-Screen-REV03.pdf"
+  },
+  "open-house": {
+    "pages": 6,
+    "width_mm": 170.0,
+    "height_mm": 260.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Open-House-Reviewed-Revision17-Editable.zip",
+    "source_pdf": "PUBLICATION/Open-House-R17-READING.pdf"
+  },
+  "orlathread": {
+    "pages": 2,
+    "width_mm": 297.0,
+    "height_mm": 210.0,
+    "preview_pages": [
+      1,
+      2
+    ],
+    "source_zip": "Orlathread-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Orlathread-Revision03/Orlathread-Revision03-Review.pdf"
+  },
+  "pattern": {
+    "pages": 6,
+    "width_mm": 250.0,
+    "height_mm": 200.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Pattern-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Pattern/PROOFS/Pattern-EDITORIAL-APPLICATION-PROOF-02.pdf"
+  },
+  "quarterly-index": {
+    "pages": 28,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      15
+    ],
+    "source_zip": "Quarterly-Index-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Quarterly-Index-Revision03/Quarterly-Index-Revision03-Review.pdf"
+  },
+  "signal": {
+    "pages": 8,
+    "width_mm": 240.0,
+    "height_mm": 240.0,
+    "preview_pages": [
+      1,
+      2,
+      5
+    ],
+    "source_zip": "Signal-Reviewed-Revision15-Editable.zip",
+    "source_pdf": "PUBLICATION/Signal-Reviewed-R15-READING.pdf"
+  },
+  "silence-quarterly": {
+    "pages": 32,
+    "width_mm": 230.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      17
+    ],
+    "source_zip": "Silence-Quarterly-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Silence-Quarterly-Revision03/Silence-Quarterly-Revision03-Review.pdf"
+  },
+  "slowroad-journal": {
+    "pages": 24,
+    "width_mm": 230.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      13
+    ],
+    "source_zip": "Slowroad-Journal-Reviewed-Revision36-Editable.zip",
+    "source_pdf": "PUBLICATION/Slowroad-Journal-R36-SCREEN-SOURCE.pdf"
+  },
+  "stillhouse": {
+    "pages": 6,
+    "width_mm": 226.0,
+    "height_mm": 226.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Stillhouse-Reviewed-Revision14-Editable.zip",
+    "source_pdf": "PUBLICATION/Stillhouse-Reviewed-R14-READING.pdf"
+  },
+  "structure": {
+    "pages": 6,
+    "width_mm": 280.0,
+    "height_mm": 210.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Structure-Reviewed-Revision16-Editable.zip",
+    "source_pdf": "PUBLICATION/Structure-R16-READING.pdf"
+  },
+  "table": {
+    "pages": 4,
+    "width_mm": 154.0,
+    "height_mm": 303.0,
+    "preview_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_zip": "Table-Reviewed-Revision05-Editable.zip",
+    "source_pdf": "Table/Publication/Table-FOOD-REVISION05-PROOF.pdf"
+  },
+  "thread": {
+    "pages": 6,
+    "width_mm": 180.0,
+    "height_mm": 260.0,
+    "preview_pages": [
+      1,
+      2,
+      4
+    ],
+    "source_zip": "Thread-Reviewed-Revision22-Editable.zip",
+    "source_pdf": "PUBLICATION/Thread-R22-READING.pdf"
+  },
+  "tolvik": {
+    "pages": 40,
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "preview_pages": [
+      1,
+      2,
+      21
+    ],
+    "source_zip": "Tolvik-Reviewed-Revision20-Editable.zip",
+    "source_pdf": "PUBLICATION/Tolvik-R20-READING.pdf"
+  },
+  "wellspring-next": {
+    "pages": 2,
+    "width_mm": 303.0,
+    "height_mm": 216.0,
+    "preview_pages": [
+      1,
+      2
+    ],
+    "source_zip": "Wellspring-Next-Reviewed-Revision03-Editable.zip",
+    "source_pdf": "Wellspring/EXPORT/Wellspring-Site-System-PROOF-03.pdf"
+  }
+}
