@@ -129,3 +129,35 @@
     viewer.addEventListener('close', () => lastTrigger?.focus());
   }
 })();
+
+;(() => {
+  const old = document.querySelector('.theme-switcher select');
+  if (old) {
+    const host = old.parentElement;
+    host.setAttribute('role','group'); host.setAttribute('aria-label','Appearance theme');
+    old.hidden = true; const label = host.querySelector('label'); if(label) label.hidden=true;
+    const entries=[['system','System','◐'],['light','Light','☀'],['dark','Dark','☾']];
+    const buttons=entries.map(([value,name,symbol])=>{
+      const button=document.createElement('button'); button.type='button'; button.textContent=symbol;
+      button.title=name+' theme'; button.setAttribute('aria-label',name+' theme');
+      button.setAttribute('aria-pressed',String(old.value===value));
+      button.addEventListener('click',()=>{old.value=value;old.dispatchEvent(new Event('change'));buttons.forEach(b=>b.setAttribute('aria-pressed',String(b===button)));});
+      host.append(button); return button;
+    });
+  }
+  const form=document.querySelector('#brief-form'); if(!form)return;
+  const out=document.querySelector('#brief-output'),status=document.querySelector('#brief-status');
+  const copy=document.querySelector('#copy-brief'),download=document.querySelector('#download-brief');
+  const type=form.elements.type;
+  const initial=new URLSearchParams(location.search).get('type');
+  if(initial && [...type.options].some(o=>o.value===initial))type.value=initial;
+  form.addEventListener('submit',event=>{
+    event.preventDefault();
+    const data=new FormData(form);
+    const val=k=>String(data.get(k)||'').trim()||'To be discussed';
+    out.value=['KODRYN / Publication design brief','','Publication type: '+type.selectedOptions[0].textContent,'Estimated pages: '+val('pages'),'Deadline: '+val('deadline'),'Budget: '+val('budget'),'Deliverables: '+val('format'),'Content readiness: '+val('assets'),'Project goals and notes: '+val('notes')].join('\n');
+    copy.disabled=download.disabled=false;status.textContent='Brief prepared. Copy or download it before contacting Kodryn.';
+  });
+  copy.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(out.value);status.textContent='Brief copied.';}catch{out.focus();out.select();status.textContent='Select and copy the brief manually.';}});
+  download.addEventListener('click',()=>{const url=URL.createObjectURL(new Blob([out.value],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='kodryn-project-brief.txt';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);status.textContent='Brief download requested.';});
+})();
