@@ -1,0 +1,178 @@
+[
+  {
+    "name": "light OS / explicit light body and chrome",
+    "ok": true,
+    "detail": {
+      "body": "rgb(243, 247, 244)",
+      "meta": "#F3F7F4"
+    }
+  },
+  {
+    "name": "light light hover .nav-cta",
+    "ok": true,
+    "detail": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 80, 68)"
+    ]
+  },
+  {
+    "name": "light light hover .hero-enquire",
+    "ok": true,
+    "detail": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 80, 68)"
+    ]
+  },
+  {
+    "name": "light light hover .cta-button",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "light light selected filter hover",
+    "ok": true,
+    "detail": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 80, 68)"
+    ]
+  },
+  {
+    "name": "light light case navigation focus",
+    "ok": true
+  },
+  {
+    "name": "light OS / explicit dark body and chrome",
+    "ok": true,
+    "detail": {
+      "body": "rgb(7, 31, 36)",
+      "meta": "#071F24"
+    }
+  },
+  {
+    "name": "light dark hover .nav-cta",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "light dark hover .hero-enquire",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "light dark hover .cta-button",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "light dark selected filter hover",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "light dark case navigation focus",
+    "ok": true
+  },
+  {
+    "name": "dark OS / explicit light body and chrome",
+    "ok": true,
+    "detail": {
+      "body": "rgb(243, 247, 244)",
+      "meta": "#F3F7F4"
+    }
+  },
+  {
+    "name": "dark light hover .nav-cta",
+    "ok": true,
+    "detail": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 80, 68)"
+    ]
+  },
+  {
+    "name": "dark light hover .hero-enquire",
+    "ok": true,
+    "detail": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 80, 68)"
+    ]
+  },
+  {
+    "name": "dark light hover .cta-button",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "dark light selected filter hover",
+    "ok": true,
+    "detail": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 80, 68)"
+    ]
+  },
+  {
+    "name": "dark light case navigation focus",
+    "ok": true
+  },
+  {
+    "name": "dark OS / explicit dark body and chrome",
+    "ok": true,
+    "detail": {
+      "body": "rgb(7, 31, 36)",
+      "meta": "#071F24"
+    }
+  },
+  {
+    "name": "dark dark hover .nav-cta",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "dark dark hover .hero-enquire",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "dark dark hover .cta-button",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "dark dark selected filter hover",
+    "ok": true,
+    "detail": [
+      "rgb(3, 30, 36)",
+      "rgb(181, 221, 170)"
+    ]
+  },
+  {
+    "name": "dark dark case navigation focus",
+    "ok": true
+  }
+]
